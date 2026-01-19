@@ -1,4 +1,4 @@
-# CMPT459-Project #
+# Credit Card Analysis #
 
 ## Setting up the virtual environment ##
 Create the virtual environment
